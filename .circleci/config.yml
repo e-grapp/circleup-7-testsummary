@@ -13,7 +13,7 @@ jobs:
           data-dir: ~/project/results
           upload: true
 # Add below this line, do not modify above
-    working_directory: /tmp
+    #working_directory: /tmp
       - run:
           name: Creating Dummy Artifacts
           command: |
